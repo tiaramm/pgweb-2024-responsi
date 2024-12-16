@@ -15,13 +15,14 @@ Garut menjadi salah satu kota yang memiliki destinasi wisata alam yang indah unt
 - Ina Geoportal:
   https://tanahair.indonesia.go.id/portal-web/unduh/rbi-wilayah
 - Google Maps:
-		https://www.google.com/maps
+  https://www.google.com/maps
 
 ## Source code Pembangun: 
 - Landing Page
-![Landing_Page1](https://github.com/user-attachments/assets/c8627022-0cb6-41d1-aa9f-741dee3668f2)
-![Landing_Page2](https://github.com/user-attachments/assets/b06f6e24-b4dc-4fd6-96f8-ffb96164d065)
+![Landing_Page1](https://github.com/user-attachments/assets/f4209e06-8072-49b3-9f84-ed216a0e74a5)
+![Landing_Page2](https://github.com/user-attachments/assets/95aaa7c5-f44f-4789-b62b-f80f860ac779)
+![Landing_Page3](https://github.com/user-attachments/assets/42565443-ad3a-4ee3-9a37-f049a8d6cf65)
 - Elemen database
-![Database](https://github.com/user-attachments/assets/8c6376f8-e266-4110-86eb-6a04bef88b86)
+![Database](https://github.com/user-attachments/assets/283ac549-c734-43e5-85c3-0659c4cb8c30)
 - Peta Digital (WebGIS)
-![WebGIS](https://github.com/user-attachments/assets/6ad5c96a-643e-461b-a4cd-eb8b4a59b88a)
+![WebGIS](https://github.com/user-attachments/assets/482a88a3-3e1b-4f6c-94ef-26824c4bc5be)
